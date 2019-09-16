@@ -15,3 +15,7 @@ class Solution:
             prev = cursor
             cursor = temp
         return prev
+
+'''
+Reversing a linked list 
+'''
